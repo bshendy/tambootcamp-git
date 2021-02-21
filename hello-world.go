@@ -1,5 +1,5 @@
 # my first comment - shendy
-# add a second comment
+# my second comment - shendy
 # add a third comment
 # add a fourth comment
 # file:  hello-world.go
